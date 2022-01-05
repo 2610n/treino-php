@@ -1,7 +1,12 @@
 
 <?php
 
-$nome="lucas victor";
+$nome=4;
+
+
+
+
+exit;
 
 
 echo ucfirst($nome); //define a primeira letra de um paragrafo em maiusculo
