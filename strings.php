@@ -1,24 +1,10 @@
 
 <?php
-$nome="lucas";
-$cont=strlen($nome);//ele retorna a quantidade de letras   numa variavel;
-echo "$nome tem  $cont letras";
 
-
-exit;
-$frase="a repetição e  a mae da reteção.";
-$q=strpos($frase,"mae");//ele retorna a posição da palavra 
-$texto=substr($frase,0,$q);
-var_dump($texto);
+$nome=4;
 
 
 
-exit;
-$nome="lucas";
-$nome2=" victor";
-//interpolação de variáveis
-echo ' $nome $nome2 <br>';//aspas simples entende que tudo e texto
-echo "$nome $nome2";//ja aqui podemos chamar a variavel dentro das aspas  
 
 exit;
 
