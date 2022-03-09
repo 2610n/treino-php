@@ -8,7 +8,7 @@ foreach($mochila as $valor){
 }
 echo "<br>";
 
-$mochila2=array("mt1"=>"cola","mt2"=>"lapis");
+$mochila2=array("mt1"=>"cola","mt2"=>"lapis");//array associativo
 
 foreach($mochila2 as $valor=>$intem){
 
